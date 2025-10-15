@@ -15,9 +15,9 @@ function fileType(filePath) {
 }
 
 
-function sendResponse (res, status, contentType, data) {
+function sendResponse (res,status, contentType, body) {
 	res.writeHead(status, {'Content-Type': contentType});
-	res.end(data);
+	res.end(body);
 }
 
 function sendFile(filePath, res) {
@@ -32,4 +32,4 @@ function sendFile(filePath, res) {
 	});
 }
 
-module.exports = { sendFile };
+module.exports = { sendFile, sendResponse };

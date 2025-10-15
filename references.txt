@@ -1,1 +1,4 @@
 I consulted https://www.freecodecamp.org/news/module-exports-how-to-export-in-node-js-and-javascript/ as an outside source.
+https://www.w3schools.com/jsref/jsref_encodeuricomponent.asp
+
+I did not work on this assignment with anyone else.

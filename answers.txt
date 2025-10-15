@@ -1,0 +1,2 @@
+1) what does .. and -R mean?
+	a) .. means the directory before and -R means to apply a command to all files in the directory.
