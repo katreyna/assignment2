@@ -1,0 +1,1 @@
+I consulted https://www.freecodecamp.org/news/module-exports-how-to-export-in-node-js-and-javascript/ as an outside source.
